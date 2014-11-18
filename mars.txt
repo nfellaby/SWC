@@ -1,2 +1,3 @@
 with red people.
 a loads of scousers
+we can even add more information when manually editing the files. Git will not overwrite conflicts, simply point them out
